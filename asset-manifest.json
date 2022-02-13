@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/background-hex/static/css/main.511202ae.chunk.css",
-    "main.js": "/background-hex/static/js/main.f89785ad.chunk.js",
-    "main.js.map": "/background-hex/static/js/main.f89785ad.chunk.js.map",
+    "main.js": "/background-hex/static/js/main.da3c76ed.chunk.js",
+    "main.js.map": "/background-hex/static/js/main.da3c76ed.chunk.js.map",
     "runtime-main.js": "/background-hex/static/js/runtime-main.22830712.js",
     "runtime-main.js.map": "/background-hex/static/js/runtime-main.22830712.js.map",
     "static/js/2.502a6918.chunk.js": "/background-hex/static/js/2.502a6918.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.22830712.js",
     "static/js/2.502a6918.chunk.js",
     "static/css/main.511202ae.chunk.css",
-    "static/js/main.f89785ad.chunk.js"
+    "static/js/main.da3c76ed.chunk.js"
   ]
 }
